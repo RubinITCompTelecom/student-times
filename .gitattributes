@@ -1,0 +1,6 @@
+# Keep Windows scripts byte for byte (pure ASCII, CRLF).
+*.ps1 -text
+*.psm1 -text
+*.bat -text
+*.xaml -text
+*.json -text
